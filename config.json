@@ -1,0 +1,15 @@
+{
+    "Tokens": {
+        "USDC": "0x796Ea11Fa2dD751eD01b53C372fFDB4AAa8f00F9",
+        "USDT": "0x2C03058C8AFC06713be23e58D2febC8337dbfE6A",
+        "WETH": "0xfc24f770F94edBca6D6f885E12d4317320BcB401",
+        "WXTZ": "0xc9B53AB2679f573e480d01e0f49e2B5CFB7a3EAb"
+    },
+    "IguanaDEX": {
+        "Factory": "0x093cCBAEcb0E0006c8BfFca92E9929d117fEC583",
+        "WXTZ/USDT": "0xe7be75b7ff3562b35e910ef8e66fa729a47de431",
+        "WXTZ/USDC": "0x99e4913d8e7dea6da9839fec75a5652df80fdafd",
+        "USDC/USDT": "0x86456e2e2a203da82e61ed34ef4137fbe545f0dc",
+        "WXTZ/WETH": "0x478f067b0ed73d120bbcd8c6f4f33438fc483912"
+    }
+}
