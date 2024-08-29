@@ -1,0 +1,24 @@
+[tool.poetry]
+name = "dojo"
+version = "0.1.0"
+description = ""
+authors = ["Rohan Tangri <rohan.tangri@trili.tech>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+web3 = "^7.1.0"
+numpy = "^2.1.0"
+matplotlib = "^3.9.2"
+pandas = "^2.2.2"
+
+
+[tool.poetry.group.dev.dependencies]
+black = "^24.8.0"
+isort = "^5.13.2"
+pytest = "^8.3.2"
+pre-commit = "^3.8.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
